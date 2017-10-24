@@ -3973,6 +3973,7 @@ Ruby:
   - Thorfile
   - Vagrantfile
   - buildfile
+  tm_scope: source.ruby
   language_id: 326
 Rust:
   type: programming
